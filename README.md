@@ -28,7 +28,7 @@ Python >= 3.9
 欄位：animeSn,videoSn,date,popular
 
 ## 匯出數據
-```python export.py [----restrict-in-fetch-list|--restrict-in-fetch-list-path RESTRICT_IN_FETCH_LIST_PATH] /path/to/export.csv```
+```python export.py [--restrict-in-fetch-list|--restrict-in-fetch-list-path RESTRICT_IN_FETCH_LIST_PATH] /path/to/export.csv```
 
 ## 注意事項
-本項目僅因研究各動畫熱門程度而由第三方建立，不保證可靠性，若過度使用時您的IP地址被動畫瘋封鎖等可能違反巴哈姆特動畫瘋之服務條款之事情一蓋不負責任。
+本項目僅因研究各動畫熱門程度而由第三方建立，不保證可靠性，若過度使用等可能違反巴哈姆特動畫瘋之服務條款之事情時導致您的IP地址被動畫瘋封鎖等事情一蓋不負責任。
